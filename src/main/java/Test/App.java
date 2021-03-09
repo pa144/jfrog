@@ -1,4 +1,4 @@
-package Demo;
+package Test;
 
 /**
  * Hello world!
